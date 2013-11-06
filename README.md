@@ -3,7 +3,7 @@ hack-lab-seed
 
 This is the staring point for a hacking class project.
 
- 
+ Jenny
  
  
  http://api.jquerymobile.com/page/
